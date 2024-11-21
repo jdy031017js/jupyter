@@ -10,9 +10,7 @@ public class CarController : MonoBehaviour
     {
         
     }/// <summary>
-    /// dks gksskdf 
-    /// 
-    /// </summary>
+  
     void Update()
     {
         if (Input.GetMouseButtonDown(0))        // 마우스를 클릭하면
